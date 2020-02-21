@@ -1,4 +1,4 @@
-# SPD 1.01: Engineering Careers 1
+# SPD 1.4: Engineering Careers - Communication and Interviewing
 
 ## Course Description
 
