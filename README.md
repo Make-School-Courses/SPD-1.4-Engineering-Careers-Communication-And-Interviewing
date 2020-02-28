@@ -8,7 +8,7 @@ This course focuses on engineering careers, particularly on learning the differe
 
 ## Prerequisites:  
 
-- [SPD 1.4](https://github.com/Make-School-Courses/SPD-1.4-Testing-And-Architecture)
+- [SPD 1.3](https://github.com/Make-School-Courses/SPD-1.3-Team-Software-Project)
 
 ## Learning Outcomes
 
