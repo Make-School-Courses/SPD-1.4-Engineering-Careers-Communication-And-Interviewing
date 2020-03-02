@@ -49,7 +49,7 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-**All assignments will be submitted in the [course tracker](http://make.sc/trackspd1.01) unless otherwise stated**
+**All assignments will be submitted in the [course tracker](https://docs.google.com/spreadsheets/d/1WQDH6MuIryzrTqqCbSGs_3QYN1SoflGx64JNEz1fkGo/edit#gid=977526212) unless otherwise stated**
 
 We'll be using various problems from interview prep websites such as [Leetcode](https://leetcode.com/) and [Exercism](https://exercism.io/) for the technical interview assignments
 
