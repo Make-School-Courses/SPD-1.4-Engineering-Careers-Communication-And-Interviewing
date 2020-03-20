@@ -25,10 +25,14 @@ By the end of the course, you will be able to ...
 
 **See links to assignments under the Class Assignments section**
 
-**Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
+**Course Dates:** Mon March 30 – Wednesday, May 13, 2020 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 10:00–11:50am (11 class sessions)
-/*
+
+[Course Schedule/Tracker](https://docs.google.com/spreadsheets/d/1WQDH6MuIryzrTqqCbSGs_3QYN1SoflGx64JNEz1fkGo/edit#gid=977526212)
+
+<!--
+
 | Class |          Date          |                 Topics                  |        Assignment Due         |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------------------:|
 |  - |  Mon, March 30              | [Lab - Finding Industry Contacts and Reaching Out to Them](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
@@ -45,7 +49,7 @@ By the end of the course, you will be able to ...
 | 11 |  Wed, May 6              |  | |
 | 11 |  Wed, May 11              |  | |
 | 11 |  Wed, May 13              | Final Exam | Attempt two Exercism problems of your choice - must be different from previous attempts @ 11:59pm |
-*/
+-->
 
 ## Class Assignments
 
