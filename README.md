@@ -28,16 +28,16 @@ By the end of the course, you will be able to ...
 **Course Dates:** Wednesday, May 29 – Wednesday, July 3, 2019 (6 weeks)
 
 **Class Times:** Monday and Wednesday at 10:00–11:50am (11 class sessions)
-
+/*
 | Class |          Date          |                 Topics                  |        Assignment Due         |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------------------:|
 |  - |  Mon, March 30              | [Lab - Finding Industry Contacts and Reaching Out to Them](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
 |  1 |  Wed, April 1            | [Interview Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
-|  2 |  Mon, April 6             | [Interview Communication LAB](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | Technical Interview Worksheet @ 11:59 pm 
-|  3 |  Wed, April 8             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) | Attempt 2 new problems on LeetCode @ 11:59 pm |
-|  4 |  Mon, April 13             | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) | Write two things you learned from each interview.io video @ 11:59pm |
-|  5 |  Wed, April 15             | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | Behavioral Interview prep **due by 10am** <br> Write code for a breakout problem @ 11:59pm <br> Names + Companies of 3 industry contacts @ 11:59pm | 
-|  6 |  Mon, April 20             | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | Behavioral Interview prep **due by 10am** <br> Write code for a breakout problem @ 11:59pm <br> Names + Companies of 3 industry contacts @ 11:59pm
+|  2 |  Mon, April 6             | [Interview Communication LAB](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | [Technical Interview Worksheet](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c26a8b8e_0_0) (due before class begins)
+|  3 |  Wed, April 8             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) |[Attempt 2 Problems of your choice from Leetcode](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0) (due before class begins) |
+|  4 |  Mon, April 13             | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) | [Write two things you learned from each interview.io video](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit#slide=id.g58da2ed25b_0_0) (due before class begins) |
+|  5 |  Wed, April 15             | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | Behavioral Interview prep **due by 10am** <br> [Write code for a breakout problem](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit#slide=id.g58da2ed25f_0_0)<br> Names + Companies of 3 industry contacts @ 11:59pm | 
+|  6 |  Mon, April 20             | | 
 |  7 |  Wed, April 22             | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
 |  8 |  Mon, April 27             | Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio | Attempt two Exercism problems of your choice @ 11:59pm |
 | 9 |  Wed, April 29              | [Whiteboard Coding](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit?usp=sharing) | All due @ 11:59pm: <br> Finish Outcomes Tutorial <br> Update Your Make School Portfolio <br> Sample Cover Letter <br> Completed Resume <br> Completed LinkedIn |
@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 | 11 |  Wed, May 6              |  | |
 | 11 |  Wed, May 11              |  | |
 | 11 |  Wed, May 13              | Final Exam | Attempt two Exercism problems of your choice - must be different from previous attempts @ 11:59pm |
-
+*/
 
 ## Class Assignments
 
@@ -55,10 +55,6 @@ We'll be using various problems from interview prep websites such as [Leetcode](
 
 ### Technical Interview Assignments
 
-- [Technical Interview Worksheet](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c26a8b8e_0_0) - **Due Wed. 6/5**
-- [Attempt 2 Problems of your choice from Leetcode](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit#slide=id.g56adfcb699_1_0) - **Due Mon. 6/10**
-- [Write two things you learned from each interview.io video](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit#slide=id.g58da2ed25b_0_0) - **Due Wed. 6/12**
-- [Write code for a breakout problem](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit#slide=id.g58da2ed25f_0_0) - **Due Mon. 6/17**
 - [Attempt two Exercism problems of your choice](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit#slide=id.g58d3d40430_0_214) - **Due Mon. 6/24**
 - [Sign up for firebase.io and attempt 3 problems of your choice](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit#slide=id.g58da2ed2c7_0_0) - **Due Mon. 7/1**
 - [Attempt two Exercism problems of your choice - must be different from previous attempts](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/edit#slide=id.g56ca828110_0_87) - **Due Wed. 7/3**
