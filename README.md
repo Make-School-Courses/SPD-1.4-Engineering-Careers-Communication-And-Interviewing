@@ -31,7 +31,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |        Assignment Due         |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------------------:|
-|  - |  Mon, March 30              | **Memorial Day** |
+|  - |  Mon, March 30              | |
 |  1 |  Wed, April 1            | [Lab - Finding Industry Contacts and Reaching Out to Them](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
 |  2 |  Mon, April 6             | [Interview Communication Pt 1:](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
 |  3 |  Wed, April 8             | [Interview Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | Technical Interview Worksheet @ 11:59 pm |
@@ -80,6 +80,10 @@ We'll be using various problems from interview prep websites such as [Leetcode](
 - Sample Cover Letter - link to it in the tracker once it's complete. It is completed once you have finished the [cover letter checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.o92llmt36ywl). **Due by Wed. 6/26**
 - Completed Resume - link in tracker once it is current; Resume is complete once you have finished the [resume checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.9dw8bx66eg63). Use the [resume template](https://docs.google.com/document/d/17Uyvo4AXdrHsKYFz4w8ceRbwHC_jw73bF37x7pK08Kc/edit) to get started. **Due by Wed. 6/26**
 - Completed LinkedIn - link to updated LinkedIn in tracker once complete. Complete once you have finished the [checklist](https://docs.google.com/document/d/1FD52I6tKofC1zpZyLWmX1BCQw5WDPkmzimvDSK_E_nM/edit#heading=h.gmdd0wc8bgfn). **Due by Wed. 6/26**
+
+## References
+
+[Final Exam Study Guide](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit)
 
 ## Evaluation
 To pass this course you must meet the following requirements:
