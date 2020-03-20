@@ -29,7 +29,7 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Monday and Wednesday at 10:00–11:50am (11 class sessions)
 
-## [Lesson Schedule/Course Progress Tracker](https://docs.google.com/spreadsheets/d/1WQDH6MuIryzrTqqCbSGs_3QYN1SoflGx64JNEz1fkGo/edit#gid=977526212)
+### [Lesson Schedule/Course Progress Tracker](https://docs.google.com/spreadsheets/d/1WQDH6MuIryzrTqqCbSGs_3QYN1SoflGx64JNEz1fkGo/edit#gid=977526212)
 
 <!--
 
