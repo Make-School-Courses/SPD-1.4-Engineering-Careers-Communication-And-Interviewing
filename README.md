@@ -32,11 +32,11 @@ By the end of the course, you will be able to ...
 | Class |          Date          |                 Topics                  |        Assignment Due         |
 |:-----:|:----------------------:|:---------------------------------------:|:-----------------------------:|
 |  - |  Mon, March 30              | [Lab - Finding Industry Contacts and Reaching Out to Them](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit?usp=sharing) |
-|  1 |  Wed, April 1            | [Interview Communication Pt 1:](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
-|  2 |  Mon, April 6             | [Interview Communication Pt 2](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | Technical Interview Worksheet @ 11:59 pm 
-|  3 |  Wed, April 8             |  |  |
-|  4 |  Mon, April 13             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) | Attempt 2 new problems on LeetCode @ 11:59 pm |
-|  5 |  Wed, April 15             | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) | Write two things you learned from each interview.io video @ 11:59pm |
+|  1 |  Wed, April 1            | [Interview Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit?usp=sharing) |
+|  2 |  Mon, April 6             | [Interview Communication LAB](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing) | Technical Interview Worksheet @ 11:59 pm 
+|  3 |  Wed, April 8             | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing) | Attempt 2 new problems on LeetCode @ 11:59 pm |
+|  4 |  Mon, April 13             | [Coding Syntax](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing) | Write two things you learned from each interview.io video @ 11:59pm |
+|  5 |  Wed, April 15             | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | Behavioral Interview prep **due by 10am** <br> Write code for a breakout problem @ 11:59pm <br> Names + Companies of 3 industry contacts @ 11:59pm | 
 |  6 |  Mon, April 20             | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | Behavioral Interview prep **due by 10am** <br> Write code for a breakout problem @ 11:59pm <br> Names + Companies of 3 industry contacts @ 11:59pm
 |  7 |  Wed, April 22             | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |
 |  8 |  Mon, April 27             | Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio | Attempt two Exercism problems of your choice @ 11:59pm |
