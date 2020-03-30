@@ -1,4 +1,6 @@
-# Interviewing Communication
+# Behavioral Interview Lab
+
+### [Slides](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing)
 
 ## Agenda
 
@@ -6,10 +8,6 @@
 1. 
 
 ## Learning Outcomes
-
-1. 
-
-## Slides
 
 ## Activities
 

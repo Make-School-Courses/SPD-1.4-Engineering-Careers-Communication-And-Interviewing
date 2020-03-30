@@ -1,4 +1,6 @@
-# Interviewing Communication
+# Coding Syntax
+
+### [Slides](https://docs.google.com/presentation/d/1vRFEyDCrktTXpN6N8KPltIfXnFtk6HYaSBXu6PjRFIw/edit?usp=sharing)
 
 ## Agenda
 
@@ -6,10 +8,6 @@
 1. 
 
 ## Learning Outcomes
-
-1. 
-
-## Slides
 
 ## Activities
 

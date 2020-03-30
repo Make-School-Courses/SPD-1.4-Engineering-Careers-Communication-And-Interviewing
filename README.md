@@ -33,35 +33,35 @@ By the end of the course, you will be able to ...
 |:-----:| :----: | :--------: | :-----------: | 
 |  1 | Mon, Mar 30 | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | - |
 |  2 | Wed, Apr 1 | [Interviewing Communication LAB](Lessons/02-Interviewing-Communication-Lab.md) | [Interviewing Communication Worksheet](Lessons/01-Interviewing-Communication.md?id=homework) |
-|  3 | Mon, Apr 6 | [Problem Solving Strategies](Lessons/03-Problem-Solving-Strategies.md) | 2 LeetCode Problems |
-|  4 | Wed, Apr 8 | [Coding Syntax](Lessons/04-Coding-Syntax.md) | Things I Learned from Interview Videos |
-|  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | Breakout Problems |
-|  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | Behavioral Interview Prep Worksheet |
-|  7 | Mon, Apr 20 | [Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab.md) | Code Breakout Problems |
-|  8 | Wed, Apr 22 | [Whiteboard Coding](Lessons/08-Whiteboard-Coding.md) | 2 Exercisms problems |
-|  9 | Mon, Apr 27 | [Complexity Analysis](Lessons/09-Complexity-Analysis.md) | Outcomes Preparation Tutorial |
-| 10 | Wed, Apr 29 | [Industry Contacts](Lessons/10-Industry-Contacts.md) | 3 FireCode Problems |
-| 11 | Mon, May 4 | [Interview Practice](Lessons/11-Interview-Practice.md) |  2 Excercisms problems Part II |
-| 12 | Wed, May 6 | [Original Problems](Lessons/12-Original-Problems.md) | Write 2 Original Problems |
-| 13 | Mon, May 11 | - | - |
-| 14 | Wed, May 13 | Final Assessment | Contractor Project |
+|  3 | Mon, Apr 6 | [Problem Solving Strategies](Lessons/03-Problem-Solving-Strategies.md) | [2 LeetCode Problems](Lessons/02-Interviewing-Communication-Lab.md?id=homework) |
+|  4 | Wed, Apr 8 | [Coding Syntax](Lessons/04-Coding-Syntax.md) | [Things I Learned from Interview Videos](Lessons/03-Problem-Solving-Strategies.md?id=homework) |
+|  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | [Breakout Problems](Lessons/04-Coding-Syntax.md?id=homework) |
+|  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | [Behavioral Interview Prep Worksheet](Lessons/05-Behavioral-Interviews.md?id=homework) |
+|  7 | Mon, Apr 20 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [Code Breakout Problems](Lessons/06-Test-Cases.md?id=homework) |
+|  8 | Wed, Apr 22 | [Whiteboard Coding](Lessons/08-Whiteboard-Coding.md) | [2 Exercisms problems](Lessons/07-Resume-Lab-I.md?id=homework) |
+|  9 | Mon, Apr 27 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | [Outcomes Preparation Tutorial](Lessons/08-Whiteboard-Coding.md?id=homework) |
+| 10 | Wed, Apr 29 | [Complexity Analysis](Lessons/10-Complexity-Analysis.md) | [3 FireCode Problems](Lessons/09-Resume-Lab-II.md?id=homework) |
+| 11 | Mon, May 4 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | [2 Excercisms problems Part II](Lessons/10-Complexity-Analysis.md?id=homework) |
+| 12 | Wed, May 6 | [Interview Practice](Lessons/12-Interview-Practice.md) | [Industry Contacts](Lessons/11-Industry-Contacts.md?id=homework) |
+| 13 | Mon, May 11 | [Original Problems](Lessons/13-Original-Problems.md) | [Write 2 Original Problems](Lessons/12-Interview-Practice.md?id=homework) |
+| 14 | Wed, May 13 | Final Assessment | - |
 
 #### ** Section B (Meredith) **
 
 | Class | Date | Topics | Assignment Due | 
 |:-----:| :----: | :--------: | :-----------: | 
 |  1 | Mon, Mar 30 | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | - |
-|  2 | Wed, Apr 1 | [Interviewing Communication LAB](Lessons/02-Interviewing-Communication-Lab.md) | Interviewing Communication Worksheet |
-|  3 | Mon, Apr 6 | [Problem Solving Strategies](Lessons/03-Problem-Solving-Strategies.md) | 2 LeetCode Problems |
-|  4 | Wed, Apr 8 | [Coding Syntax](Lessons/04-Coding-Syntax.md) | Things I Learned from Interview Videos |
-|  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | Breakout Problems |
-|  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | Behavioral Interview Prep Worksheet |
-|  7 | Mon, Apr 20 | [Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab.md) | Code Breakout Problems |
-|  8 | Wed, Apr 22 | [Whiteboard Coding](Lessons/08-Whiteboard-Coding.md) | 2 Exercisms problems |
-|  9 | Mon, Apr 27 | [Complexity Analysis](Lessons/09-Complexity-Analysis.md) | Outcomes Preparation Tutorial |
-| 10 | Wed, Apr 29 | [Industry Contacts](Lessons/10-Industry-Contacts.md) | 3 FireCode Problems |
-| 11 | Mon, May 4 | [Interview Practice](Lessons/11-Interview-Practice.md) |  2 Excercisms problems Part II |
-| 12 | Wed, May 6 | [Original Problems](Lessons/12-Original-Problems.md) | Write 2 Original Problems |
+|  2 | Wed, Apr 1 | [Interviewing Communication LAB](Lessons/02-Interviewing-Communication-Lab.md) | [Interviewing Communication Worksheet](Lessons/01-Interviewing-Communication.md?id=homework) |
+|  3 | Mon, Apr 6 | [Problem Solving Strategies](Lessons/03-Problem-Solving-Strategies.md) | [2 LeetCode Problems](Lessons/02-Interviewing-Communication-Lab.md?id=homework) |
+|  4 | Wed, Apr 8 | [Coding Syntax](Lessons/04-Coding-Syntax.md) | [Things I Learned from Interview Videos](Lessons/03-Problem-Solving-Strategies.md?id=homework) |
+|  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | [Breakout Problems](Lessons/04-Coding-Syntax.md?id=homework) |
+|  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | [Behavioral Interview Prep Worksheet](Lessons/05-Behavioral-Interviews.md?id=homework) |
+|  7 | Mon, Apr 20 | [Lab - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab.md) | [Code Breakout Problems](Lessons/06-Test-Cases.md?id=homework) |
+|  8 | Wed, Apr 22 | [Whiteboard Coding](Lessons/08-Whiteboard-Coding.md) | [2 Exercisms problems](Lessons/07-Resume-Lab.md?id=homework) |
+|  9 | Mon, Apr 27 | [Complexity Analysis](Lessons/09-Complexity-Analysis.md) | [Outcomes Preparation Tutorial](Lessons/08-Whiteboard-Coding.md?id=homework) |
+| 10 | Wed, Apr 29 | [Industry Contacts](Lessons/10-Industry-Contacts.md) | [3 FireCode Problems](Lessons/09-Complexity-Analysis.md?id=homework) |
+| 11 | Mon, May 4 | [Interview Practice](Lessons/11-Interview-Practice.md) | [2 Excercisms problems Part II](Lessons/10-Industry-Contacts.md?id=homework) |
+| 12 | Wed, May 6 | [Original Problems](Lessons/12-Original-Problems.md) | [Write 2 Original Problems](Lessons/11-Interview-Practice.md?id=homework) |
 | 13 | Mon, May 11 | - | - |
 | 14 | Wed, May 13 | Final Assessment | Contractor Project |
 
@@ -79,6 +79,15 @@ By the end of the course, you will be able to ...
 **All assignments will be submitted via [Gradescope](https://gradescope.com) unless otherwise stated.**
 
 We'll be using various problems from interview prep websites such as [Leetcode](https://leetcode.com/) and [Exercism](https://exercism.io/) for the technical interview assignments.
+
+## Late Assignment Policy
+
+- Late assignments that are submitted **no later that 2 days (48 hours)** after the deadline will be given a **10% late penalty**.
+- Another **10% late penalty** will be applied for **every 2 days (48 hours)** that pass after the deadline. For example, an assignment that is submitted 5 days late will receive a 30% late penalty.
+- Assignments submitted **more than 7 days (1 week) late** will **not** be accepted.
+- The **absolute last day** to submit any assignment will be **Friday, May 15 at 11:59 PM**.
+
+If you require accommodations or have extenuating circumstances such as prolonged illness, please contact your instructor to request an extension.
 
 ## References
 

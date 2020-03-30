@@ -1,4 +1,4 @@
-# Interviewing Communication
+# Career Lab I
 
 ## Agenda
 
@@ -6,10 +6,6 @@
 1. 
 
 ## Learning Outcomes
-
-1. 
-
-## Slides
 
 ## Activities
 

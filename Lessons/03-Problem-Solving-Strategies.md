@@ -1,4 +1,6 @@
-# Interviewing Communication
+# Problem Solving Strategy
+
+### [Slides](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit?usp=sharing)
 
 ## Agenda
 
@@ -6,10 +8,6 @@
 1. 
 
 ## Learning Outcomes
-
-1. 
-
-## Slides
 
 ## Activities
 

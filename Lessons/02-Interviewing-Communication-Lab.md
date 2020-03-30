@@ -1,4 +1,6 @@
-# Interviewing Communication
+# Interviewing Communication Lab
+
+### [Slides](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit?usp=sharing)
 
 ## Agenda
 
@@ -7,9 +9,6 @@
 
 ## Learning Outcomes
 
-1. 
-
-## Slides
 
 ## Activities
 

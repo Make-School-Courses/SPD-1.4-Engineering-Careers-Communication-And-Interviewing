@@ -1,4 +1,6 @@
-# Interviewing Communication
+# Whiteboard Coding
+
+### [Slides](https://docs.google.com/presentation/d/1Kf6lToDlntg-rlIePyz9torvt4fhlNSfzJuMvUW7DkE/edit?usp=sharing)
 
 ## Agenda
 
@@ -7,9 +9,6 @@
 
 ## Learning Outcomes
 
-1. 
-
-## Slides
 
 ## Activities
 
