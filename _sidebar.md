@@ -14,5 +14,8 @@
 - [Interview Practice](Lessons/11-Interview-Practice.md)
 - [Original Problems](Lessons/12-Original-Problems.md)
 
+- **Class Tools**
+  - [How to Record your Screen](Tools/Screen-Recording-How-To.md)
+
 - **Assessments**
 - [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit)

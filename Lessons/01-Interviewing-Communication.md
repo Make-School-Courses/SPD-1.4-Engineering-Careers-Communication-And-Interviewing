@@ -54,6 +54,24 @@ Interview Problem: *Write a function that takes two lists named a and b, and ret
 1. Let your partner present to you, and listen to their solution
 1. Discuss what you liked about each other’s approach, and what could be improved
 
+### Communication Role Play
+
+Breakout into pairs. One person is interviewer, the other is interviewee. Use the same practice question and interview each other.
+
+### Practice Problem
+
+Problem: *Given an array of n numbers that are all unique except for one duplicate, find the duplicate number.*
+
+Go through these steps with a partner, then switch:
+
+1. Restate the problem
+1. Ask clarifying questions
+1. State your assumptions
+1. Think out loud
+  1. Brainstorm solutions
+  1. Explain your rationale
+  1. Discuss tradeoffs
+  1. Suggest improvements
 
 
 ## Homework
