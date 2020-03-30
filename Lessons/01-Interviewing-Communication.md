@@ -15,9 +15,46 @@ By the end of this session, you will be able to describe and practice each of th
   - Discuss tradeoffs
   - Suggest improvements
 
-## Activities
+## Warm-Up
 
-You can find today's activities in the slides.
+With a partner, recall *one* technical interview you have done in the past (at Make School or elsewhere).
+
+- What was hard about it?
+- How could you have done better?
+
+
+## Activity: Practice Interview Communication
+
+Interview Problem: *Write a function that takes two lists named a and b, and returns a list of common values that are in both lists.*
+
+### Part 1: Restate the Problem
+
+1. Write down your restatement of the problem
+1. With a partner, share your statement with them
+1. Compare and contrast your statements to ensure you both fully understand the problem
+1. Give each other feedback on problem statements
+
+### Part 2: Ask Clarifying Questions
+
+1. On your own, list 3+ clarifying questions to ask the interviewer.
+1. Once you’re done, compare with a partner, and refine your questions based on their feedback.
+
+### Part 3: State your Assumptions
+
+1. Write down your own assumptions
+1. Share your assumptions with a partner, and refine based on their feedback.
+
+### Part 4: Think out Loud
+
+1. Solve the problem aloud to a partner. As you work through your solution, make sure you hit all of these steps:
+  1. Brainstorm solutions
+  1. Explain your rationale
+  1. Discuss tradeoffs
+  1. Suggest improvements
+1. Let your partner present to you, and listen to their solution
+1. Discuss what you liked about each other’s approach, and what could be improved
+
+
 
 ## Homework
 

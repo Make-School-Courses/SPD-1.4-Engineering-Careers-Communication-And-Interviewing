@@ -64,16 +64,17 @@ By the end of the course, you will be able to ...
 | 11 | Mon, May 4 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | [2 Excercisms problems Part II](Lessons/10-Complexity-Analysis.md?id=homework) |
 | 12 | Wed, May 6 | [Interview Practice](Lessons/12-Interview-Practice.md) | [Industry Contacts](Lessons/11-Industry-Contacts.md?id=homework) |
 | 13 | Mon, May 11 | [Original Problems](Lessons/13-Original-Problems.md) | [Write 2 Original Problems](Lessons/12-Interview-Practice.md?id=homework) |
-| 14 | Wed, May 13 | Final Assessment | - |
+| 14 | Wed, May 13 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit) | - |
 
 <!-- tabs:end -->
 
 
 ## Class Assignments
 
-**All assignments will be submitted via [Gradescope](https://gradescope.com) unless otherwise stated.**
+**All assignments will be submitted via [Gradescope](https://gradescope.com) unless otherwise stated.** Assignments are due by the start of class (9:30 AM) on the date specified.
 
 We'll be using various problems from interview prep websites such as [Leetcode](https://leetcode.com/) and [Exercism](https://exercism.io/) for the technical interview assignments.
+
 
 ## Late Assignment Policy
 
@@ -84,19 +85,25 @@ We'll be using various problems from interview prep websites such as [Leetcode](
 
 If you require accommodations or have extenuating circumstances such as prolonged illness, please contact your instructor to request an extension.
 
+
+## Evaluation
+
+To pass this course, you must earn at least a 70% weighted average, according to the following breakdown:
+
+- Assignments & Class Participation: 50%
+- Outcomes Preparation Tutorial: 20%
+- Final Summative Assessment: 30%
+
+In addition, to pass the course, you must:
+
+- Actively participate in class and abide by the attendance policy
+- Make up all classwork from all absences
+
+
 ## References
 
 [Final Exam Study Guide](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit)
 
-## Evaluation
-To pass this course you must meet the following requirements:
-
-- Complete all required assignments 
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit?usp=sharing)
-- Actively participate in class and abide by the attendance policy
-- Make up all classwork from all absences
 
 ## Make School Course Policies
 
