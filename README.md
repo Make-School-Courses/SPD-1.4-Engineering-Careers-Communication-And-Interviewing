@@ -23,6 +23,7 @@ By the end of the course, you will be able to ...
 ## Schedule
 
 **Course Dates:** March 31 through May 14, 2020
+
 **Class Times:** Monday and Wednesday at 9:30am – 12:15pm (14 class sessions)
 
 <!-- tabs:start -->
@@ -66,12 +67,6 @@ By the end of the course, you will be able to ...
 | 14 | Wed, May 13 | Final Assessment | - |
 
 <!-- tabs:end -->
-
-**See links to assignments under the Class Assignments section**
-
-**Course Dates:** Mon March 30 – Wed May 13, 2020 (7 weeks)
-
-**Class Times:** Monday and Wednesday at 10:00–11:50am (11 class sessions)
 
 
 ## Class Assignments

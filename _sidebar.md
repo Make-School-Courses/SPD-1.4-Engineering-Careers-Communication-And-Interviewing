@@ -15,4 +15,4 @@
 - [Original Problems](Lessons/12-Original-Problems.md)
 
 - **Assessments**
-- [Final Assessment](Assessments/final-assessment.md)
+- [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit)
