@@ -45,9 +45,9 @@ Complete [this worksheet](https://docs.google.com/document/d/16NFUlOR9v-j23Z6IM8
 
 ## Homework
 
-1. Find 2 new problems on LeetCode and follow the communication steps covered in last class to guide your thinking and problem solving.
-1. Record yourself answering each question as you would in a real interview. [Click here](Tools/Screen-Recording-How-To.md) for instructions on how to make a recording.
-1. Submit your recordings on Gradescope!
+1. **Find 2 new problems on LeetCode** and follow the communication steps covered in last class to guide your thinking and problem solving.
+1. **Write down and commit** your **communication steps** (in code comments) and **solution code** to a GitHub repository.
+1. **Submit** your GitHub repository to Gradescope.
 
 ## Wrap-Up
 
