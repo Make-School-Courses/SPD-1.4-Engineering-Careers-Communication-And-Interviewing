@@ -17,20 +17,7 @@ Review this code snippet and find what’s wrong with it. What coding syntax err
 
 Compare your results with 2-3 others and write down anything they caught but you had missed.
 
-```js
-function FizzBuzz(targetnum)
-{
-    for(var i=1; i<targetnum; i++;) {
-        let result = "";
-        if (i%3 === 0) result += "Fizz";
-        if (i%5 === 0) result += "Buzz";
-        if (i%3 > 0 & i%5 > 0) result = i
-        console.log(result += "\n");
-    }
-}
-
-FizzBuzz(50);
-```
+<img src="Lessons/Assets/js-coding-syntax.png" width="500px">
 
 ### Part 2: Stack class in Python
 
@@ -38,33 +25,16 @@ Review this code snippet and find what’s wrong with it. What coding syntax err
 
 Compare your results with 2-3 others and write down anything they caught but you had missed.
 
-```py
-import Linked_List from "LinkedList.py"
-
-class Stack:
-    def _init_:
-        this.List = new Linked_List();
-    
-    def push(newItem) :
-        "Insert the given item on the top of this stack"
-        // prepend given item before head node
-        this.List.prepend(newItem , index = 0);
-    
-    def peek() :
-        "Return the item on the top of this stack"
-        if( this.List.head !== none ) {
-            return(this.List.head.data[ 0 ]);
-        }else{ return none; }
-    
-    def pop() :
-        "Remove and return the item on the top of this stack"
-        topItem=this.peek( );
-        this.List.delete(topItem);
-        return(topItem);
-```
+<img src="Lessons/Assets/py-coding-syntax.png" width="500px">
 
 ## Homework
 
+- Copy your Google Doc solutions to 2 breakout problems solved during today’s class.
+- Paste the code exactly as it is written in a code editor and commit it without changes.
+- See if the code runs and the results are correct.
+- Make any changes needs to fix the code’s syntax. Use a code linter to detect violated conventions.
+- Commit the new code with your improvements.
+- Submit your code via Gradescope.
 
 
 ## Wrap-Up
