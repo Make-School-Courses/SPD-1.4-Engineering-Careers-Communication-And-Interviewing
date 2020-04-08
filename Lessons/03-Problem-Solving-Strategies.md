@@ -50,7 +50,7 @@ Write in your notebook, then share with 1 or 2 partners:
 
 Complete Homework #3 on [Gradescope](https://gradescope.com):
 - Watch 2 Interviewing.io videos
-- Answer the questions to describe how the interviewee followed each problem-solving step.
+- Answer the questions on what each interviewee did well and what they could have improved.
 
 ## Wrap-Up
 
