@@ -6,7 +6,7 @@ Start on the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/
 
 ## Homework
 
-Complete 4 sections of the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) by Wednesday's class.
+Complete 3 sections of the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) (not including part 1) by Wednesday's class.
 
 ## Wrap-Up
 
