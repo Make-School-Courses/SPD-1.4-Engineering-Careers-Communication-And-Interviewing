@@ -1,15 +1,12 @@
-# Career Lab I
+# Resume/Career Lab I
 
-## Agenda
+## Lab Time
 
-1. Learning Outcomes
-1. 
-
-## Learning Outcomes
-
-## Activities
+Start on the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) during class today. Your instructor will meet 1-on-1 with you to review your work.
 
 ## Homework
+
+Complete 4 sections of the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) by Wednesday's class.
 
 ## Wrap-Up
 
