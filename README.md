@@ -39,7 +39,7 @@ By the end of the course, you will be able to ...
 |  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | [Breakout Problems](Lessons/04-Coding-Syntax.md?id=homework) |
 |  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | [Behavioral Interview Prep Worksheet](Lessons/05-Behavioral-Interviews.md?id=homework) |
 |  7 | Mon, Apr 20 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [2 Exercisms problems](Lessons/06-Test-Cases.md?id=homework) |
-|  8 | Wed, Apr 22 | [Whiteboard Coding](Lessons/08-Whiteboard-Coding.md) | 4 sections of [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
+|  8 | Wed, Apr 22 | [Code Tracing & Variable Tables](Lessons/08-Whiteboard-Coding.md) | 4 sections of [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
 |  9 | Mon, Apr 27 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | [Breakout Problems](Lessons/08-Whiteboard-Coding.md?id=homework) |
 | 10 | Wed, Apr 29 | [Complexity Analysis](Lessons/10-Complexity-Analysis.md) | [3 FireCode Problems](Lessons/09-Resume-Lab-II.md?id=homework) |
 | 11 | Mon, May 4 | [Industry Contacts](Lessons/11-Industry-Contacts.md) | [2 Excercisms problems Part II](Lessons/10-Complexity-Analysis.md?id=homework) |
