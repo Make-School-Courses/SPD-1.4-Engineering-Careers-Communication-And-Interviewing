@@ -1,6 +1,6 @@
 # Test Cases
 
-### [Slides](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing)
+### [Slides](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/)
 
 ## Warm-Up #1: Problem Solving Strategy
 
