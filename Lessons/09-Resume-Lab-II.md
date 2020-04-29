@@ -28,4 +28,4 @@ After 10 minutes, switch partners.
 ## Homework
 
 - Before next class: Write your Personal Odyssey and be ready to share with a partner
-- By Tuesday, 5/5: Complete the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) and submit on Gradescope
+- By Monday, 5/4: Complete the [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) and submit on Gradescope
