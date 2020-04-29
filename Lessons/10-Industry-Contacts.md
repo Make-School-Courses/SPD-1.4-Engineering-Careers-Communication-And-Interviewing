@@ -11,7 +11,7 @@ By the end of today, you should be able to...
 1. Use resources available to get the information of relevant contacts. 
 1. Compose a message to either start a conversation or following up with an existing contact.
 
-## Warm-Up: Personal Odyssey (20 minutes)
+## Warm-Up: Personal Odyssey (15 minutes)
 
 1. Partner A: Share your Personal Odyssey with a partner - should be 3-5 min.
 1. Partner B: Give feedback and suggestions. Start by giving positive feedback.
