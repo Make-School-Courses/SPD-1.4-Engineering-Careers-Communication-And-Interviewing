@@ -2,6 +2,12 @@
 
 ### [Slides](https://docs.google.com/presentation/d/1TyfA1m2Sd7XEMrWoHYK5PxvjoJ1KXKaN3ausi69MtHY/)
 
+## Warm-Up
+
+Define what each of the 5 plots represents.
+
+Click [here](https://www.desmos.com/calculator/fsenvsr754) for answers.
+
 ## Activity 1: Worksheet
 
 Make a copy of [this worksheet](https://docs.google.com/document/d/1I6tFnjc_dLk70--JMG-eyyRPm2nXNtwWSCAEUBKbic0/edit). Analyze each of the problems on the worksheet and provide the Big O for runtime and space complexity.

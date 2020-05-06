@@ -1,15 +1,6 @@
-# Interviewing Communication
+# Interview Practice
 
-## Agenda
-
-1. Learning Outcomes
-1. 
-
-## Learning Outcomes
-
-1. 
-
-## Slides
+### [Slides]()
 
 ## Activities
 

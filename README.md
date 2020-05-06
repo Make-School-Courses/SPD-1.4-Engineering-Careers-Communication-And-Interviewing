@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 |  9 | Mon, Apr 27 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | [Breakout Problems](Lessons/08-Whiteboard-Coding.md?id=homework) |
 | 10 | Wed, Apr 29 | [Industry Contacts](Lessons/10-Industry-Contacts.md) | - |
 | 11 | Mon, May 4 | [Complexity Analysis](Lessons/11-Complexity-Analysis.md) | [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
-| 12 | Wed, May 6 | [Interview Practice](Lessons/12-Interview-Practice.md) | [Industry Contacts](Lessons/11-Industry-Contacts.md?id=homework) |
+| 12 | Wed, May 6 | [Interview Practice](Lessons/12-Interview-Practice.md) | [2 LeetCode Problems](Lessons/11-Complexity-Analysis.md?id=homework) |
 | 13 | Mon, May 11 | [Original Problems](Lessons/13-Original-Problems.md) | [Write 2 Original Problems](Lessons/12-Interview-Practice.md?id=homework) |
 | 14 | Wed, May 13 | Final Assessment | - |
 
