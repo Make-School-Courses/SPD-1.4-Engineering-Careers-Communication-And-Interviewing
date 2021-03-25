@@ -8,6 +8,8 @@ With a partner, take turns being the mock interviewer for an interview problem. 
 
 Go over the [Final Exam Study Guide](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#).
 
+Join a group of 4. Take turns going over each learning outcome. For each of the learning outcomes, choose 1 person to _summarize_ everything they know about that learning outcome. Then, leave some time for other members to add to that summary.
+
 ## Break
 
 ## End-of-Term Surveys

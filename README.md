@@ -22,30 +22,49 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** March 31 through May 14, 2020
+**Course Dates:** March 29 through May 12, 2020
 
-**Class Times:** Monday and Wednesday at 9:30am – 12:15pm (14 class sessions)
+**Class Times:** Monday and Wednesday at 9:30am – 12:15pm (13 class sessions)
 
 <!-- tabs:start -->
 
-#### ** Section A/B **
+#### ** Section A - Braus - HYBRID **
 
 | Class | Date | Topics | Assignment Due | 
-|:-----:| :----: | :--------: | :-----------: | 
-|  1 | Mon, Mar 30 | [Interviewing Communication](Lessons/01-Interviewing-Communication.md) | - |
-|  2 | Wed, Apr 1 | [Interviewing Communication LAB](Lessons/02-Interviewing-Communication-Lab.md) | [Interviewing Communication Worksheet](Lessons/01-Interviewing-Communication.md?id=homework) |
-|  3 | Mon, Apr 6 | [Problem Solving Strategies](Lessons/03-Problem-Solving-Strategies.md) | [2 LeetCode Problems](Lessons/02-Interviewing-Communication-Lab.md?id=homework) |
-|  4 | Wed, Apr 8 | [Coding Syntax](Lessons/04-Coding-Syntax.md) | [Things I Learned from Interview Videos](Lessons/03-Problem-Solving-Strategies.md?id=homework) |
-|  5 | Mon, Apr 13 | [Lab - Peer Behavioral Interviews](Lessons/05-Behavioral-Interviews.md) | [Breakout Problems](Lessons/04-Coding-Syntax.md?id=homework) |
-|  6 | Wed, Apr 15 | [Test Cases](Lessons/06-Test-Cases.md) | [Behavioral Interview Prep Worksheet](Lessons/05-Behavioral-Interviews.md?id=homework) |
-|  7 | Mon, Apr 20 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [2 Exercisms problems](Lessons/06-Test-Cases.md?id=homework) |
-|  8 | Wed, Apr 22 | [Code Tracing & Variable Tables](Lessons/08-Whiteboard-Coding.md) | 4 sections of [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
-|  9 | Mon, Apr 27 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | [Breakout Problems](Lessons/08-Whiteboard-Coding.md?id=homework) |
-| 10 | Wed, Apr 29 | [Industry Contacts](Lessons/10-Industry-Contacts.md) | - |
-| 11 | Mon, May 4 | [Complexity Analysis](Lessons/11-Complexity-Analysis.md) | [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
-| 12 | Wed, May 6 | [Interview Practice](Lessons/12-Interview-Practice.md) | [2 LeetCode Problems](Lessons/11-Complexity-Analysis.md?id=homework) |
-| 13 | Mon, May 11 | [Original Problems](Lessons/13-Original-Problems.md) | [Write 2 Original Problems](Lessons/12-Interview-Practice.md?id=homework) |
-| 14 | Wed, May 13 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#) | - |
+|:-----:| :----: | :--------: | :-----------: |
+|  1 | Mon, Mar 29 | [Interviewing Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c04e5a4a_3_5) | - |
+|  - | Wed, Mar 31 | **No Class - Cesar Chavez** | - |
+|  2 | Mon, Apr 5  | [Interviewing Communication Lab](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit) | 10 Hackerrank Problems |
+|  3 | Wed, Apr 7  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |  |
+|  4 | Mon, Apr 12 | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) | 15 Hackerrank Problems (total) |
+|  5 | Wed, Apr 14 | [Code Tracing & Variable Tables](https://docs.google.com/presentation/d/1AhQJB5BPgbGkbvVYkZJMUD2RL-8Aeieux729b0pVfQE/edit) |  |
+|  6 | Mon, Apr 19 | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | [Video Interview 1](Assignments/Video-Interview.md)<br>20 Hackerrank Problems (total) |
+|  7 | Wed, Apr 21 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [Behavioral Interview Worksheet](https://docs.google.com/document/d/1gxkP-wZ5mmdW2NFUNAw56mE4VBwK_J98PC_RX518KMo/edit?usp=drive_web&ouid=106043311622109841017) |
+|  8 | Mon, Apr 26 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | 25 Hackerrank Problems (total) |
+|  9 | Wed, Apr 28 | [Industry Contacts](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit) | [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
+| 10 | Mon, May 3  | Review Communication Steps | 30 Hackerrank Problems (total) |
+| 11 | Wed, May 5  | [Complexity Analysis](https://docs.google.com/presentation/d/1ANQFgvl3-VBuW8z-ktF3ea2_8Gv7bjEG0AiaKaCr3jU/edit#slide=id.g60470b8ca6_0_62) |  |
+| 12 | Mon, May 10 | Interview Practice | [Video Interview 2](Assignments/Video-Interview.md)<br>35 Hackerrank Problems (total)  |
+| 13 | Wed, May 12 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#) | - |
+
+#### ** Section B - Meredith **
+
+| Class | Date | Topics | Assignment Due | 
+|:-----:| :----: | :--------: | :-----------: |
+|  1 | Mon, Mar 29 | [Interviewing Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c04e5a4a_3_5) | - |
+|  - | Wed, Mar 31 | **No Class - Cesar Chavez** | - |
+|  2 | Mon, Apr 5  | [Interviewing Communication Lab](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit) | 10 Hackerrank Problems |
+|  3 | Wed, Apr 7  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |  |
+|  4 | Mon, Apr 12 | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) | 15 Hackerrank Problems (total) |
+|  5 | Wed, Apr 14 | [Code Tracing & Variable Tables](https://docs.google.com/presentation/d/1AhQJB5BPgbGkbvVYkZJMUD2RL-8Aeieux729b0pVfQE/edit) |  |
+|  6 | Mon, Apr 19 | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | [Video Interview 1](Assignments/Video-Interview.md)<br>20 Hackerrank Problems (total) |
+|  7 | Wed, Apr 21 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [Behavioral Interview Worksheet](https://docs.google.com/document/d/1gxkP-wZ5mmdW2NFUNAw56mE4VBwK_J98PC_RX518KMo/edit?usp=drive_web&ouid=106043311622109841017) |
+|  8 | Mon, Apr 26 | [Career Lab II - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/09-Resume-Lab-II.md) | 25 Hackerrank Problems (total) |
+|  9 | Wed, Apr 28 | [Industry Contacts](https://docs.google.com/presentation/d/1DtgX3AjIbCiD1lsjMncHWv-9dI63oVCXJyNNYh1lOIA/edit) | [Outcomes Preparation Tutorial](https://www.makeschool.com/academy/track/outcomes-preparation-2n8) |
+| 10 | Mon, May 3  | Review Communication Steps | 30 Hackerrank Problems (total) |
+| 11 | Wed, May 5  | [Complexity Analysis](https://docs.google.com/presentation/d/1ANQFgvl3-VBuW8z-ktF3ea2_8Gv7bjEG0AiaKaCr3jU/edit#slide=id.g60470b8ca6_0_62) |  |
+| 12 | Mon, May 10 | Interview Practice | [Video Interview 2](Assignments/Video-Interview.md)<br>35 Hackerrank Problems (total)  |
+| 13 | Wed, May 12 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#) | - |
 
 
 <!-- tabs:end -->
@@ -55,26 +74,16 @@ By the end of the course, you will be able to ...
 
 **All assignments will be submitted via [Gradescope](https://gradescope.com) unless otherwise stated.** Assignments are due by the start of class (9:30 AM) on the date specified.
 
-We'll be using various problems from interview prep websites such as [Leetcode](https://leetcode.com/) and [Exercism](https://exercism.io/) for the technical interview assignments.
-
-
-## Late Assignment Policy
-
-- Late assignments that are submitted **no later that 2 days (48 hours)** after the deadline will be given a **10% late penalty**.
-- Another **10% late penalty** will be applied for **every 2 days (48 hours)** that pass after the deadline. For example, an assignment that is submitted 5 days late will receive a 30% late penalty.
-- Assignments submitted **more than 7 days (1 week) late** will **not** be accepted.
-- The **absolute last day** to submit any assignment will be **Friday, May 15 at 11:59 PM**.
-
-If you require accommodations or have extenuating circumstances such as prolonged illness, please contact your instructor to request an extension.
 
 
 ## Evaluation
 
-To pass this course, you must earn at least a 70% weighted average, according to the following breakdown:
+To pass this course, you must complete the following
 
-- Assignments & Class Participation: 50%
-- Outcomes Preparation Tutorial: 20%
-- Final Summative Assessment: 30%
+- Complete at least 6 out of 8 in-class peer interview rubrics
+- Complete the Outcomes Preparation Tutorial
+- Pass the midterm & final video submissions
+- Complete at least 35 Hackerrank problems & show proof of completion
 
 In addition, to pass the course, you must:
 
