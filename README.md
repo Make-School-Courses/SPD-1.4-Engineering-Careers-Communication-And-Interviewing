@@ -40,9 +40,9 @@ By the end of the course, you will be able to ...
 |:-----:| :----: | :--------: | :-----------: |
 |  1 | Mon, Mar 29 | [Interviewing Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c04e5a4a_3_5) | - |
 |  - | Wed, Mar 31 | **No Class - Cesar Chavez** | - |
-|  2 | Mon, Apr 5  | [Interviewing Communication Lab](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit) | 10 Hackerrank Problems |
-|  3 | Wed, Apr 7  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |  |
-|  4 | Mon, Apr 12 | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) | 15 Hackerrank Problems (total) |
+|  2 | Mon, Apr 5  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) | 10 Hackerrank Problems |
+|  3 | Wed, Apr 7  | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) |  |
+|  4 | Mon, Apr 12 | Interview Practice / Lab | 15 Hackerrank Problems (total) |
 |  5 | Wed, Apr 14 | [Code Tracing & Variable Tables](https://docs.google.com/presentation/d/1AhQJB5BPgbGkbvVYkZJMUD2RL-8Aeieux729b0pVfQE/edit) |  |
 |  6 | Mon, Apr 19 | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | [Video Interview 1](Assignments/Video-Interview.md)<br>20 Hackerrank Problems (total) |
 |  7 | Wed, Apr 21 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [Behavioral Interview Worksheet](https://docs.google.com/document/d/1gxkP-wZ5mmdW2NFUNAw56mE4VBwK_J98PC_RX518KMo/edit?usp=drive_web&ouid=106043311622109841017) |
@@ -59,9 +59,9 @@ By the end of the course, you will be able to ...
 |:-----:| :----: | :--------: | :-----------: |
 |  1 | Mon, Mar 29 | [Interviewing Communication](https://docs.google.com/presentation/d/1qBL_ySjDahIzPG-3mtFGY_qP_dLqhhub5YPZp0V9RxY/edit#slide=id.g56c04e5a4a_3_5) | - |
 |  - | Wed, Mar 31 | **No Class - Cesar Chavez** | - |
-|  2 | Mon, Apr 5  | [Interviewing Communication Lab](https://docs.google.com/presentation/d/1LkIajE8xTbP8BUkm_hKuvgILUutacoL5ne_kcuJ2sVk/edit) | 10 Hackerrank Problems |
-|  3 | Wed, Apr 7  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) |  |
-|  4 | Mon, Apr 12 | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) | 15 Hackerrank Problems (total) |
+|  2 | Mon, Apr 5  | [Test Cases](https://docs.google.com/presentation/d/1zNb6jqB9NHmvlRY_cSyUqJA4gsHXg-IjfM1g0WmoPgs/edit?usp=sharing) | 10 Hackerrank Problems |
+|  3 | Wed, Apr 7  | [Problem Solving Strategies](https://docs.google.com/presentation/d/10QktdpcIb2veHfELkI_JfE3fWqNwk2laJbmjeknlSPw/edit) |  |
+|  4 | Mon, Apr 12 | Interview Practice / Lab | 15 Hackerrank Problems (total) |
 |  5 | Wed, Apr 14 | [Code Tracing & Variable Tables](https://docs.google.com/presentation/d/1AhQJB5BPgbGkbvVYkZJMUD2RL-8Aeieux729b0pVfQE/edit) |  |
 |  6 | Mon, Apr 19 | [Lab - Peer Behavioral Interviews](https://docs.google.com/presentation/d/1HGJBpWhVAyTpbfN2xylmBvndeNkCrGWdppkuiRgeZ9A/edit?usp=sharing) | [Video Interview 1](Assignments/Video-Interview.md)<br>20 Hackerrank Problems (total) |
 |  7 | Wed, Apr 21 | [Career Lab I - Update Resume, LinkedIn, Cover Letter, and Portfolio](Lessons/07-Resume-Lab-I.md) | [Behavioral Interview Worksheet](https://docs.google.com/document/d/1gxkP-wZ5mmdW2NFUNAw56mE4VBwK_J98PC_RX518KMo/edit?usp=drive_web&ouid=106043311622109841017) |
