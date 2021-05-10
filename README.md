@@ -51,7 +51,7 @@ By the end of the course, you will be able to ...
 | 10 | Mon, May 3  | Review Communication Steps | 20 Hackerrank Problems (total) |
 | 11 | Wed, May 5  | [Complexity Analysis](https://docs.google.com/presentation/d/1ANQFgvl3-VBuW8z-ktF3ea2_8Gv7bjEG0AiaKaCr3jU/edit#slide=id.g60470b8ca6_0_62) |  |
 | 12 | Mon, May 10 | Interview Practice | [Video Interview 2](Assignments/Video-Interview.md)<br>25 Hackerrank Problems (total)  |
-| 13 | Wed, May 12 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#) | - |
+| 13 | Wed, May 12 | Lab Day | - |
 
 
 #### ** Section B - Meredith **
@@ -71,7 +71,7 @@ By the end of the course, you will be able to ...
 | 10 | Mon, May 3  | Review Communication Steps | 20 Hackerrank Problems (total) |
 | 11 | Wed, May 5  | [Complexity Analysis](https://docs.google.com/presentation/d/1ANQFgvl3-VBuW8z-ktF3ea2_8Gv7bjEG0AiaKaCr3jU/edit#slide=id.g60470b8ca6_0_62) |  |
 | 12 | Mon, May 10 | Interview Practice | [Video Interview 2](Assignments/Video-Interview.md)<br>25 Hackerrank Problems (total)  |
-| 13 | Wed, May 12 | [Final Assessment](https://docs.google.com/document/d/1Y7q9TdUgX_YCjxbTFzcJUZlCd83yN3ALPUqaaw3hoPw/edit#) | - |
+| 13 | Wed, May 12 | Lab Day | - |
 
 
 <!-- tabs:end -->
